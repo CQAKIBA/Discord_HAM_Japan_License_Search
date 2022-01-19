@@ -1,0 +1,2 @@
+# Discord_HAM_Japan_License_Search
+総務省アマチュア無線局免許検索 Discord BOT
